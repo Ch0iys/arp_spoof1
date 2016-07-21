@@ -3,7 +3,6 @@ import os
 import logging
 import re
 import sys
-import time
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)	# Delete scapy logging
 from scapy.all import *
 
